@@ -1,0 +1,9 @@
+homepage: https://pagure.io/netcf.git
+primary_contact: laine@laine.org
+auto_ccs:
+  - berrange@redhat.com
+  - hhan@redhat.com
+sanitizers:
+  - address
+  - memory
+  - undefined
